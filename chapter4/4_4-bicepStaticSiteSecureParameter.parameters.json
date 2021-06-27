@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "repoToken": {
-            "value": "GITHUB_TOKEN"
+            "value": "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"
         },
         "webapp": {
             "value": {
