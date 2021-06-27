@@ -8,7 +8,7 @@
         "webapp": {
             "value": {
               "github": {
-                "url": "https://github.com/rchaganti/bicepbookexamples",
+                "url": "https://github.com/code2gnana/bicepbookexamples.git",
                 "branch": "main"
               },
               "build": {
